@@ -38,6 +38,7 @@ const socialLink = [
     },
 ]
 
+
 const SocialMedia = ({ className, iconClassName, tooltipClassName }: Props) => {
   return (
     <TooltipProvider>
